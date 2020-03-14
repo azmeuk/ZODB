@@ -3,3 +3,4 @@ docutils
 ZODB
 j1m.sphinxautointerface
 j1m.sphinxautozconfig
+sphinx_rtd_theme
